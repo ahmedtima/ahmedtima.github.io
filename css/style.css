@@ -54,7 +54,7 @@ div.hero-text h1{
 }
 
 div.hero-text a button{
-  color: black;
+  color: red;
   border-color: red;
   background-color:darkblue;
   padding: 10px;
@@ -133,7 +133,7 @@ table#t01 {
   /* media querry */
   @media screen and (min-width: 480px) {
     body{
-      background-color: lightgreen;
+      background-color: wheat;
     }
   }
 
